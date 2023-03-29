@@ -1,0 +1,64 @@
+{
+  "foods": [
+    {
+      "id" :  1,
+      "title": "Beef Burger",
+      "price": 5.49,
+      "type": "burger",
+      "image": "https://www.freepnglogos.com/uploads/burger-png/burger-png-png-images-yellow-images-12.png"
+
+    },
+    {
+      "id" :  2,
+      "title": "Fresh Burger",
+      "price": 6.59,
+      "type": "burger",
+      "image":  "https://www.pngplay.com/wp-content/uploads/2/Burger-PNG-Background.png"
+    },
+
+    {
+      "id" :  5,
+      "title": "Fresh Burger",
+      "price": 6.59,
+      "type": "chicken",
+      "image":  "https://www.pngplay.com/wp-content/uploads/2/Burger-PNG-Background.png"
+    },
+    {
+      "id" :  3,
+      "title": "Beef Burger",
+      "price": 5.49,
+      "type": "burger",
+      "image": "https://www.freepnglogos.com/uploads/burger-png/burger-png-png-images-yellow-images-12.png"
+
+    },
+    {
+      "id" :  6,
+      "title": "Beef Burger",
+      "price": 5.49,
+      "type": "taco",
+      "image": "https://www.freepnglogos.com/uploads/burger-png/burger-png-png-images-yellow-images-12.png"
+
+    },
+    {
+      "id" :  7,
+      "title": "Fresh Burger",
+      "price": 6.59,
+      "type": "taco",
+      "image":  "https://www.pngplay.com/wp-content/uploads/2/Burger-PNG-Background.png"
+    },
+    {
+      "id" :  9,
+      "title": "Coca Cola",
+      "price": 1.49,
+      "type": "drink",
+      "image":  "https://pngimg.com/d/coca_cola_PNG8915.png"
+    },
+    {
+      "id" :  10,
+      "title": "Irn Bru",
+      "price": 2.49,
+      "type": "drink",
+      "image":  "https://www.sparscotland.co.uk/images/products/brandbank/545dd476-bb47-42c8-9d9f-e90fa55a901c.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+<a class="item-link" [routerLink]="'/food/' + food.id">
+  <div class="item-box__img">
+  <img class="item-img" [src]="food.image" [alt]="food.title">
+  </div>
+  <div class="item-body">
+     <span class="item-heading font-semibold">
+    {{food.title}}
+  </span>
+    <span class="item-price text-orange-500 font-semibold">
+    {{food.price | currency: 'USD'}}
+  </span>
+  </div>
+
+</a>

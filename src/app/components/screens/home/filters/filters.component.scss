@@ -1,0 +1,11 @@
+.filter{
+  @apply flex;
+  justify-content: space-around;
+  > button {
+    width: 70px;
+    height: 70px;
+
+  }
+}
+
+
